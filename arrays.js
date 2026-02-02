@@ -17,11 +17,22 @@ console.log("Opgave 2", catsArray)
 
 // opgave 3a
 
-console.log("Exercise 3a", dogsArray.includes("Trixie"))
+console.log("opgave 3a", dogsArray.includes("Trixie"))
 false
 
 // opg 3b 
 
 
-console.log("Exercise 3a", dogsArray.includes("Baxter"))
+console.log("opgave 3b", dogsArray.includes("Baxter"))
+true
+
+// opg 4a 
+
+
+console.log("opgave 4a", catsArray.includes("Bagheera"))
+undefined
+
+// opg 4b
+
+console.log("opgave 4b", catsArray.includes("Salem"))
 true
