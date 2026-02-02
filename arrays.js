@@ -13,3 +13,15 @@ console.log("Problem 1", newNumbers)
 
 catsArray.push("Sniffles")
 console.log("Opgave 2", catsArray)
+
+
+// opgave 3a
+
+console.log("Exercise 3a", dogsArray.includes("Trixie"))
+false
+
+// opg 3b 
+
+
+console.log("Exercise 3a", dogsArray.includes("Baxter"))
+true
