@@ -57,8 +57,17 @@ console.log("Opgave 7a", mango);
 
 // opg 7b
 
-
 let blåbær = fruitsArray.indexOf("blåbær");
 
 console.log("Opgave 7b", blåbær);
+
+
+// opg 8 
+
+let polly = dogsArray.indexOf("Polly");
+if (polly !== -1) {
+  dogsArray.splice(polly, 1);
+}
+console.log("opgave 8", dogsArray);
+
 
