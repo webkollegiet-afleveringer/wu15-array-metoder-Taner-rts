@@ -39,7 +39,12 @@ true
 
 // opg 5 
 
-numre = numbersArray.map((x) => x * 3);
+let numre = numbersArray.map((x) => x * 3);
 console.log(numre);
 
+// opg 6
+
+let streg = dogsArray.join("");
+
+console.log("Opgave 6", streg);
 
