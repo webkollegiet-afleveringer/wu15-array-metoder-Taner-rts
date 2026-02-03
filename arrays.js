@@ -36,3 +36,10 @@ undefined
 
 console.log("opgave 4b", catsArray.includes("Salem"))
 true
+
+// opg 5 
+
+numre = numbersArray.map((x) => x * 3);
+console.log(numre);
+
+
