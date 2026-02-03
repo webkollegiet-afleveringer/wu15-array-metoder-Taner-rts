@@ -48,3 +48,17 @@ let streg = dogsArray.join("");
 
 console.log("Opgave 6", streg);
 
+// opg 7a
+
+let mango = fruitsArray.indexOf("Mango");
+
+console.log("Opgave 7a", mango);
+
+
+// opg 7b
+
+
+let blåbær = fruitsArray.indexOf("blåbær");
+
+console.log("Opgave 7b", blåbær);
+
